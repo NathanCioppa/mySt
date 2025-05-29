@@ -109,9 +109,9 @@ static const char *colorname[] = {
 	/* 8 bright colors */
 	"gray50",
 	"red",
-	"green",
+	"#fff322",  // color of user@host marker
 	"yellow",
-	"#5c5cff",
+	"#d6a3ff", // color of path, ls directory names, nano comments
 	"magenta",
 	"cyan",
 	"white",
